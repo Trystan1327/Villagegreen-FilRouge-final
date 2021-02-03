@@ -1,0 +1,22 @@
+
+
+p{
+    color: brown;
+    
+}
+body{
+   
+    background-image:url("../images/background.png");
+    background-size: cover;
+    }
+
+
+#bgwhite{
+    background-image: url("../images/bgmilieu.png") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    }
+    #text{
+        margin-left: 5%;
+    }
